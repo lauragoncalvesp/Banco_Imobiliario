@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1637708477 source:c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\cartas.c
+	"cartas.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1637708477 c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\cartas.h
+
+1637710893 source:c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\fila.c
+	"fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1637708478 c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\fila.h
+	"jogador.h"
+
+1637708477 c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\jogador.h
+	"tabuleiro.h"
+
+1637708477 source:c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\jogador.c
+	"jogador.h"
+	<stdio.h>
+	<string.h>
+	"fila.h"
+
+1637358610 source:c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\pilha.c
+	"pilha.h"
+	<stdio.h>
+	<stdlib.h>
+
+1637358814 c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\pilha.h
+	"Jogador.h"
+
+1637710893 source:c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\programa.c
+	"fila.h"
+	"jogador.h"
+	"tabuleiro.h"
+	"cartas.h"
+	"acoes.h"
+	"casa.h"
+	"rodada.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1637710893 source:c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\acoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"acoes.h"
+	"propriedade.h"
+
+1637710374 c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\acoes.h
+	"jogador.h"
+	"tabuleiro.h"
+	"cartas.h"
+	"fila.h"
+
+1637708477 c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\tabuleiro.h
+
+1637710893 source:c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\tabuleiro.c
+	"tabuleiro.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637710893 source:c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\casa.c
+	"casa.h"
+	"acoes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637708477 c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\casa.h
+	"cartas.h"
+	"jogador.h"
+	"tabuleiro.h"
+
+1637710893 source:c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\propriedade.c
+	"propriedade.h"
+	<stdio.h>
+	<string.h>
+
+1637708477 c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\propriedade.h
+	"jogador.h"
+	"tabuleiro.h"
+
+1637710374 c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\rodada.h
+	"cartas.h"
+	"jogador.h"
+	"tabuleiro.h"
+	<stdlib.h>
+
+1637710893 source:c:\users\laura\documents\alg prog 2020.2\estrutura de dados\banco\rodada.c
+	"rodada.h"
+	"acoes.h"
+	"propriedade.h"
+	"casa.h"
+	"fila.h"
+	<stdio.h>
+
+1637710894 source:c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\acoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"acoes.h"
+	"propriedade.h"
+
+1637710376 c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\acoes.h
+	"jogador.h"
+	"tabuleiro.h"
+	"cartas.h"
+	"fila.h"
+
+1637708478 c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\jogador.h
+	"tabuleiro.h"
+
+1637708478 c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\tabuleiro.h
+
+1637708478 c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\cartas.h
+
+1637708480 c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\fila.h
+	"jogador.h"
+
+1637708478 c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\propriedade.h
+	"jogador.h"
+	"tabuleiro.h"
+
+1637708478 source:c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\cartas.c
+	"cartas.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1637710894 source:c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\casa.c
+	"casa.h"
+	"acoes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637708478 c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\casa.h
+	"cartas.h"
+	"jogador.h"
+	"tabuleiro.h"
+
+1637710894 source:c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\fila.c
+	"fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1637708478 source:c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\jogador.c
+	"jogador.h"
+	<stdio.h>
+	<string.h>
+	"fila.h"
+
+1637710894 source:c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\programa.c
+	"fila.h"
+	"jogador.h"
+	"tabuleiro.h"
+	"cartas.h"
+	"acoes.h"
+	"casa.h"
+	"rodada.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1637710376 c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\rodada.h
+	"cartas.h"
+	"jogador.h"
+	"tabuleiro.h"
+	<stdlib.h>
+
+1637710894 source:c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\propriedade.c
+	"propriedade.h"
+	<stdio.h>
+	<string.h>
+
+1637710894 source:c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\rodada.c
+	"rodada.h"
+	"acoes.h"
+	"propriedade.h"
+	"casa.h"
+	"fila.h"
+	<stdio.h>
+
+1637710894 source:c:\users\laura\onedrive\documentos\alg prog 2020.2\estrutura de dados\banco\tabuleiro.c
+	"tabuleiro.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,36 @@
+Voce esta com sorte! Suas acoes na Bolsa de Valores estao em alta. Receba 200
+200
+*
+Voce acaba de receber uma parcela do seu 13o salario. Receba 50
+50
+*
+Houve um assalto a sua loja, mas voca estava segurado. Receba 150
+150
+*
+Voce apostou com os parceiros deste jogo e ganhou. Receba 100
+100
+*
+Voce foi promovido a diretor de sua empresa. Receba 100
+100
+*
+Voce estava esperando o onibus e viu uma nota. Receba 50
+50
+*
+Voce virou papai outra vez! Despesas de maternidade, pague 100
+-100
+*
+A geada prejudicou sua safra de cafe. Pague 50
+-50
+*
+Parabens! Voce convidou seus amigos para festejar o aniversario. Pague 100
+-100
+*
+Voce vai casar e esta comprando um apartamento novo. Pague 200
+-200
+*
+Voce acaba de receber a comunicacao do Imposto de Renda. Pague 50
+-50
+*
+Voce foi multado. Pague 50
+-50
+*
